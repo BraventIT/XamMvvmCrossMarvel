@@ -30,7 +30,6 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Events\IPlatformEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\Characters.cs" />
     <Compile Include="Models\ImageUrl.cs" />
